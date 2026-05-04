@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Order Taman Semanggi</title>
+    
+    <link rel="icon" href="https://drive.google.com/thumbnail?id=1_rKk9-jvmVb17xO1FRwbDbuVOMNyQYn5&sz=w1000" type="image/png">
+    
+    <style>
+      body, html { 
+        margin: 0; 
+        padding: 0; 
+        height: 100%; 
+        overflow: hidden; 
+        background-color: #f4f3ed;
+      }
+      iframe { 
+        width: 100%; 
+        height: 100%; 
+        border: none; 
+      }
+    </style>
+  </head>
+  <body>
+    <iframe src="https://script.google.com/macros/s/AKfycbzl4OP9NNZp-2Gz312z941nmgIdarRWOLRC1QeFEEdRT63ys79zMwvmpqr9Kcc89NQT/exec"></iframe>
+  </body>
+</html>
